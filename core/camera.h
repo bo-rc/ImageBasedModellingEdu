@@ -36,7 +36,7 @@ public:
     void fill_camera_pos (float* pos) const;
 
     /**
-     * Stores the camera translation 3-vector into array pointed to by pos.
+     * Stores the camera translation 3-vector into array pointed to by trans.
      * This can be thought of as the world to camera translation.
      * This is identical to the translation stored in the camera.
      */
